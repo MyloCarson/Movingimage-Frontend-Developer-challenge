@@ -1,14 +1,15 @@
 # Movingimage Frontend Developer challenge
 
-## Steps for the challenge
-Please clone this repository and complete the tasks below. Then upload your code to a repository(github etc...) and share the link.
+### Project Requirements
 
-## Tasks to be completed
-* (Mandatory) Please complete the video.ts (You can find this file in the services folder) file by the interfaces defined.
-* (Optional) Please add page(s) to update an existing video and to add a new video.
-* (Optional)Please comment on how to make this app scalable.
+Project requirement and tasks can be found in the mail thread.
 
-## Note
-* Material-ui has been used and installed for the starter template. You can add styles if you want or need to.
-* We have included a file that acts as the database (db.json), the way the data is presented there is intentional and should not be changed please.
+## Project setup requirements
 
+- It is required to have Node.js and NPM set up locally. Check [Nodejs installation guide](https://nodejs.org/en/download/)
+
+## Project installation and set up
+
+- clone this repository and change directory into the repo
+- run ```yarn ``` to install dependencies
+- run ``` yarn start ``` to serve the project locally
